@@ -1,2 +1,2 @@
 # GestordeProyectosG71
-Proyecto Biodiversidad- Karen Diaz
+Proyecto- Karen Diaz
